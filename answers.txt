@@ -1,0 +1,23 @@
+sort1 uses: bubble sort
+
+random50000.txt 9.283
+reversed50000.txt 7.348
+sorted50000.txt 0.908
+
+How do you know?: bubble sort - самый медленный способ сортировки (real time 9.283)
+
+sort2 uses: merge sort
+
+random50000.txt 1.153
+reversed50000.txt 1.323
+sorted50000.txt 0.972
+
+How do you know?: merge sort самое быстрое время сортировки неспортированного списка (real time 1.153)
+
+sort3 uses: selection sort
+
+random50000.txt 3.713
+reversed50000.txt 4.041
+sorted50000.txt 4.092
+
+How do you know?: selection sort второй по скорости сортировки несортированного списка (real time 3.713)
