@@ -1,1 +1,0 @@
-SELECT AVG(songs.energy) FROM songs, artists WHERE artists.name like 'Drake';
